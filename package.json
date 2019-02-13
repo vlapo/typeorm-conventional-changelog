@@ -4,7 +4,7 @@
   "description": "Just a test repo about conventional changelog",
   "main": "index.js",
   "scripts": {
-    "release": "standard-version",
+    "release": "standard-version -t \"\"",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

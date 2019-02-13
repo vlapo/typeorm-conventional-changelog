@@ -5,7 +5,8 @@ however since API is already quite stable we don't expect too much breaking chan
 If we missed a note on some change or you have a questions on migrating from old version,
 feel free to ask us and community.
 
-## 0.2.13 (2019-02-10)
+<a name="0.2.13"></a>
+## 0.2.13 (2019-02-13)
 
 ### Bug Fixes
 
