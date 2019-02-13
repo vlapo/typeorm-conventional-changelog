@@ -1,0 +1,23 @@
+{
+  "name": "typeorm-conventional-changelog",
+  "version": "0.2.13",
+  "description": "Just a test repo about conventional changelog",
+  "main": "index.js",
+  "scripts": {
+    "release": "standard-version",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vlapo/typeorm-conventional-changelog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vlapo/typeorm-conventional-changelog/issues"
+  },
+  "homepage": "https://github.com/vlapo/typeorm-conventional-changelog#readme",
+  "devDependencies": {
+    "standard-version": "^4.4.0"
+  }
+}
